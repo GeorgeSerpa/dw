@@ -35,14 +35,24 @@ A nota final será computado através da média aritmética das avaliações, re
 * [MDN](https://developer.mozilla.org/)
 * [Safari Dev](https://developer.apple.com/library/safari/navigation/)
 * [IE Dev](http://msdn.microsoft.com/en-us/library/hh772374(v=vs.85).aspx)
+* [Tableless](http://tableless.com.br/)
 
 ## HTML
 
 * Conteúdo
   * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/html) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * HTML5
+    * Formulário: http://html5doctor.com/html5-forms-input-types/
+    * Testando suporte: http://html5test.com/
+    * Exemplos: http://html5demos.com/
+    * Recursos: http://platform.html5.org/
+  * Validador: http://validator.w3.org/
   * Layouts
     * http://www.oswd.org/
 * Referências
+  * [HTML Standard - WhatWG](http://www.whatwg.org/specs/web-apps/current-work/multipage/#auto-toc-1)
+  * HTML [4.01](http://www.w3.org/TR/html401/) e 5([1](http://www.w3.org/TR/html5/) e [2](http://html5.org/))
+  * W3C - HTML: [1](http://www.w3.org/standards/webdesign/htmlcss) e [2](http://www.w3.org/standards/webdesign/htmlcss)
   * [Doctype](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
   * Marcadores/Tags: [Web Platform](http://docs.webplatform.org/wiki/html/elements) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
@@ -52,15 +62,31 @@ A nota final será computado através da média aritmética das avaliações, re
 
 ## CSS
 
+* Conteúdo
+  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/css) e [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* Referências
+* Cheat Sheet
+
 ## JS
+
+* Conteúdo
+  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/html) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* Referências
+* Cheat Sheet
 
 ## PHP
 
-* http://www.php.net/docs.php
+* Conteúdo
+  * http://www.php.net/docs.php
+* Referências
+* Cheat Sheet
 
 ## MySQL
 
-* https://dev.mysql.com/
+* Conteúdo
+  * https://dev.mysql.com/
+* Referências
+* Cheat Sheet
 
 ## Ferramentas
 
