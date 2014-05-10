@@ -1,5 +1,7 @@
 #Desenvolvimento Web
 
+![Banner da disciplina](assets/dw.png)
+
 ## Portais de desenvolvimento Web
 
 * [Web Platform](http://webplatform.org/)
