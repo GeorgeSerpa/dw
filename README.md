@@ -39,19 +39,17 @@ A nota final será computado através da média aritmética das avaliações, re
 ## HTML
 
 * Conteúdo
-  * [Web Platform](http://docs.webplatform.org/wiki/html)
-  * [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
-* [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
-* [Doctype](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
-* Marcadores
-  * [Web Platform](http://docs.webplatform.org/wiki/html/elements)
-  * [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
-* Layouts
-  * http://www.oswd.org/
+  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/html) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * Layouts
+    * http://www.oswd.org/
+* Referências
+  * [Doctype](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
+  * Marcadores/Tags: [Web Platform](http://docs.webplatform.org/wiki/html/elements) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+  * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
 * Cheat Sheet
   * http://ult-tex.net/info/html/index.html
   * http://churchm.ag/html-cheat-sheets-in-your-face/
- 
+
 ## CSS
 
 ## JS
@@ -68,6 +66,8 @@ A nota final será computado através da média aritmética das avaliações, re
 
 * Editores
   * [Sublime Text](http://www.sublimetext.com/) com [Package Control](https://sublime.wbond.net/) e Emmet([1](http://emmet.io/) e [2](http://docs.emmet.io/cheat-sheet/))
+  * [Atom](https://atom.io/)
+  * [Brackets](http://brackets.io/)
   * http://codepen.io/
   * http://jsfiddle.net/
 * Virtualização
@@ -77,6 +77,7 @@ A nota final será computado através da média aritmética das avaliações, re
 * Documentação off-line:
   * http://devdocs.io/
   * http://dochub.io/#html/
+  * http://overapi.com/
 * Web Developer Tool 
   * [Firefox](https://developer.mozilla.org/en-US/docs/Tools)
   * [Chrome](https://developers.google.com/chrome-developer-tools/)
