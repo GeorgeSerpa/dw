@@ -5,9 +5,9 @@
 	<title>Form</title>
 </head>
 <body>
+	<form action="result.html" method="post">
 	<fieldset>
 		<legend>Cadastro</legend>
-		<form action="result.html" method="post">
 			<label for="nome">Nome</label>
 			<input type="text" name="nome" id="nome"><br>
 			<label for="">Imagem</label>
@@ -19,9 +19,9 @@
 			<label for="password">Senha</label> 
 			<input type="password" name="password" id="password"><br>
 			Sexo:
-			<input type="radio" name="gender" id="masculino" checked>
+			<input type="radio" name="gender" id="masculino" checked value="M">
 			<label for="masculino">Masculino</label>
-			<input type="radio" name="gender" id="feminino">
+			<input type="radio" name="gender" id="feminino" value="F">
 			<label for="feminino">Feminino</label> <br>
 			Interesse: <br>
 			<input type="checkbox" name="interesse" id="seguranca">
@@ -31,10 +31,21 @@
 			<input type="checkbox" name="interesse" id="infra"> 
 			<label for="infra">Infra</label> <br>
 			<label for="sugestao">Sugestão:</label> <br>
-			<textarea name="sugetao" id="" cols="30" rows="10"></textarea>
-		</form>
+			<textarea name="sugetao" id="" cols="30" rows="10"></textarea><br>
+			Estado: <br>
+			<select name="cidades" id="cidades">
+				<optgroup label="Litoral">
+					<option value="ca">Cabedelo</option>
+					<option value="jpa">João Pessoa</option>
+				</optgroup>
+				<optgroup label="Interior">
+					<option value="pa">Patos</option>
+					<option value="cg">Campina Grande</option>
+				</optgroup>
+			</select>
 	</fieldset>
 	<input type="submit" value="Enviar">
+	</form>
 
 </body>
 </html>
