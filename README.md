@@ -40,7 +40,12 @@ A nota final será computado através da média aritmética das avaliações, re
 ## HTML
 
 * Conteúdo
-  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/html) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * Tutoriais
+    * [Web Platform](http://docs.webplatform.org/wiki/html)
+    * [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    * http://www.codecademy.com/tracks/web
+    * https://www.codeschool.com/paths/html-css
+    * http://thecodeplayer.com/
   * HTML5
     * Formulário: http://html5doctor.com/html5-forms-input-types/
     * Testando suporte: http://html5test.com/
@@ -96,6 +101,8 @@ A nota final será computado através da média aritmética das avaliações, re
   * [Brackets](http://brackets.io/)
   * http://codepen.io/
   * http://jsfiddle.net/
+  * http://js.do/
+  * http://jsbin.com/
 * Virtualização
   * [Virtual Box](https://www.virtualbox.org/)
   * [Vagrant](http://www.vagrantup.com/)
