@@ -97,17 +97,17 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://www.color-hex.com/
   * Layouts
     * http://www.oswd.org/
+  * Preprocessadores
+    * http://sass-lang.com/
+    * http://www.lesscss.org/
+    * http://compass-style.org/
+    * http://learnboost.github.io/stylus/
   * Ferramentas
     * http://designmodo.github.io/Flat-UI/
     * http://fontawesome.io/
     * http://getbootstrap.com/
     * http://foundation.zurb.com/
     * http://purecss.io/
-    * Preprocessadores
-      * http://sass-lang.com/
-      * http://www.lesscss.org/
-      * http://compass-style.org/
-      * http://learnboost.github.io/stylus/
 * Referências
   * W3C - CSS: [1](http://www.w3.org/standards/techs/css#w3c_all) e [2](http://www.w3.org/standards/webdesign/htmlcss)
   * [CSS WG](http://www.w3.org/Style/CSS/)
