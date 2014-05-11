@@ -35,6 +35,8 @@ A nota final será computado através da média aritmética das avaliações, re
 * [MDN](https://developer.mozilla.org/)
 * [Safari Dev](https://developer.apple.com/library/safari/navigation/)
 * [IE Dev](http://msdn.microsoft.com/en-us/library/hh772374(v=vs.85).aspx)
+* [W3C](http://www.w3.org/standards/webdesign/)
+* [W3C Wiki](http://www.w3.org/community/webed/wiki/Main_Page)
 * [Tableless](http://tableless.com.br/)
 
 ## HTML
@@ -75,6 +77,7 @@ A nota final será computado através da média aritmética das avaliações, re
     * [Web Palatorm CSS Guide](http://docs.webplatform.org/wiki/css/tutorials)
     * [MDN CSS Portal](https://developer.mozilla.org/en-US/docs/Web/CSS)
     * MDN CSS Guide [1](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) e [2](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+    * [W3C Guide](http://www.w3.org/community/webed/wiki/CSS/Training)
     * http://www.csszengarden.com/
   * Sprite CSS
     * http://www.spritecow.com/
@@ -108,13 +111,15 @@ A nota final será computado através da média aritmética das avaliações, re
 * Referências
   * W3C - CSS: [1](http://www.w3.org/standards/techs/css#w3c_all) e [2](http://www.w3.org/standards/webdesign/htmlcss)
   * [CSS WG](http://www.w3.org/Style/CSS/)
-  * http://www.w3.org/TR/CSS2/cover.html 
-  * http://www.w3.org/TR/CSS2/propidx.html, http://www.w3.org/TR/CSS/#indices e http://docs.webplatform.org/wiki/css/properties
-  * http://www.w3.org/TR/CSS2/media.html e http://docs.webplatform.org/wiki/css/mediaqueries
-  * http://www.w3.org/TR/css3-selectors/, http://www.w3.org/TR/CSS2/selector.html e http://docs.webplatform.org/wiki/css/selectors
-  * http://docs.webplatform.org/wiki/css/atrules
-  * http://docs.webplatform.org/wiki/css/functions
-  * https://developer.mozilla.org/en-US/docs/Web/CSS/Reference e 
+  * [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1)](http://www.w3.org/TR/CSS2/cover.html)
+  * [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+  * [W3C wiki](http://www.w3.org/community/webed/wiki/CSS/Properties)
+  * [Stackoverflow](http://stackoverflow.com/questions/6187085/full-css-property-table)
+  * Propriedades: [1](http://www.w3.org/TR/CSS2/propidx.html), [2](http://www.w3.org/TR/CSS/#indices) e [3](http://docs.webplatform.org/wiki/css/properties)
+  * Media Query: [1](http://www.w3.org/TR/CSS2/media.html), [2](http://docs.webplatform.org/wiki/css/mediaqueries) e [3](http://www.w3.org/community/webed/wiki/CSS/Mediaqueries)
+  * Seletores: [1](http://www.w3.org/TR/css3-selectors/), [2](http://www.w3.org/TR/CSS2/selector.html), [3](http://www.w3.org/community/webed/wiki/CSS/Selectors) e [4](http://docs.webplatform.org/wiki/css/selectors)
+  * At-rule: [1](http://docs.webplatform.org/wiki/css/atrules)
+  * Função: [1](http://docs.webplatform.org/wiki/css/functions)
 * Cheat Sheet
   * http://www.smashingmagazine.com/2009/07/13/css-3-cheat-sheet-pdf/
   * http://www.1stwebdesigner.com/freebies/css-cheat-sheets-designers/
