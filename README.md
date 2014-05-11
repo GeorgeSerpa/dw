@@ -115,11 +115,12 @@ A nota final será computado através da média aritmética das avaliações, re
   * [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
   * [W3C wiki](http://www.w3.org/community/webed/wiki/CSS/Properties)
   * [Stackoverflow](http://stackoverflow.com/questions/6187085/full-css-property-table)
-  * Propriedades: [1](http://www.w3.org/TR/CSS2/propidx.html), [2](http://www.w3.org/TR/CSS/#indices) e [3](http://docs.webplatform.org/wiki/css/properties)
-  * Media Query: [1](http://www.w3.org/TR/CSS2/media.html), [2](http://docs.webplatform.org/wiki/css/mediaqueries) e [3](http://www.w3.org/community/webed/wiki/CSS/Mediaqueries)
-  * Seletores: [1](http://www.w3.org/TR/css3-selectors/), [2](http://www.w3.org/TR/CSS2/selector.html), [3](http://www.w3.org/community/webed/wiki/CSS/Selectors) e [4](http://docs.webplatform.org/wiki/css/selectors)
-  * At-rule: [1](http://docs.webplatform.org/wiki/css/atrules)
-  * Função: [1](http://docs.webplatform.org/wiki/css/functions)
+  * [W3Schools](http://www.w3schools.com/cssref/default.asp)
+  * Propriedades: [W3C](http://www.w3.org/TR/CSS2/propidx.html), [W3C](http://www.w3.org/TR/CSS/#indices) e [Web Platform](http://docs.webplatform.org/wiki/css/properties)
+  * Media Query: [W3C media](http://www.w3.org/TR/CSS2/media.html), [Web Platform](http://docs.webplatform.org/wiki/css/mediaqueries) e [W3C media query](http://www.w3.org/community/webed/wiki/CSS/Mediaqueries)
+  * Seletores: [CSS3](http://www.w3.org/TR/css3-selectors/), [CSS2.1](http://www.w3.org/TR/CSS2/selector.html), [W3C](http://www.w3.org/community/webed/wiki/CSS/Selectors) e [Web Platform](http://docs.webplatform.org/wiki/css/selectors)
+  * At-rule: [Web Platform](http://docs.webplatform.org/wiki/css/atrules)
+  * Função: [Web Platform](http://docs.webplatform.org/wiki/css/functions)
 * Cheat Sheet
   * http://www.smashingmagazine.com/2009/07/13/css-3-cheat-sheet-pdf/
   * http://www.1stwebdesigner.com/freebies/css-cheat-sheets-designers/
