@@ -84,6 +84,26 @@ A nota final será computado através da média aritmética das avaliações, re
     * MDN CSS Guide [1](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) e [2](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
     * [W3C Guide](http://www.w3.org/community/webed/wiki/CSS/Training)
     * http://www.csszengarden.com/
+  * Bases e Geradores de Background
+    * Background
+      * http://www.backgroundlabs.com/
+      * http://bg.siteorigin.com/
+      * http://mudcu.be/bg/
+    * Strip
+      * http://www.stripegenerator.com/
+      * http://www.stripemania.com/
+    * Textura e padrões
+      * http://www.grsites.com/archive/textures/
+      * http://bgpatterns.com/
+      * http://www.cgtextures.com/
+    * CSS3
+      * http://www.colorzilla.com/gradient-editor/
+      * http://www.cssmatic.com/gradient-generator
+      * http://www.css3factory.com/linear-gradients/
+      * http://westciv.com/tools/gradients/index.html
+      * http://css3generator.com/
+      * http://lea.verou.me/css3patterns/
+    * http://singlefunction.com/15-online-background-generators/
   * Sprite CSS
     * http://www.spritecow.com/
     * http://spritepad.wearekiss.com/
