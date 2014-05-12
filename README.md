@@ -110,6 +110,9 @@ A nota final será computado através da média aritmética das avaliações, re
       * http://css3generator.com/
       * http://lea.verou.me/css3patterns/
     * http://singlefunction.com/15-online-background-generators/
+  * Opacidade em background
+    * http://scripting.com/2014/03/10/opacityInCssBackgroundImages.html
+    * http://css-tricks.com/snippets/css/transparent-background-images/
   * Sprite CSS
     * http://www.spritecow.com/
     * http://spritepad.wearekiss.com/
