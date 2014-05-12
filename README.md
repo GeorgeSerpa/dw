@@ -86,9 +86,11 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://www.csszengarden.com/
   * Bases e Geradores de Background
     * Background
+      * http://subtlepatterns.com/
       * http://www.backgroundlabs.com/
       * http://bg.siteorigin.com/
       * http://mudcu.be/bg/
+      * http://all-free-download.com/free-vector/free-professional-website-background.html
     * Strip
       * http://www.stripegenerator.com/
       * http://www.stripemania.com/
