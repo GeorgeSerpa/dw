@@ -48,6 +48,11 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://www.codecademy.com/tracks/web
     * https://www.codeschool.com/paths/html-css
     * http://thecodeplayer.com/
+  * User style sheet
+    * [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
+    * http://userstyles.org/
+  * Herança e Cascata
+    * http://docs.webplatform.org/wiki/tutorials/inheritance_and_cascade
   * HTML5
     * Formulário: http://html5doctor.com/html5-forms-input-types/
     * Testando suporte: http://html5test.com/
