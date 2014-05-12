@@ -48,6 +48,10 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://www.codecademy.com/tracks/web
     * https://www.codeschool.com/paths/html-css
     * http://thecodeplayer.com/
+  * Units
+    * https://developer.mozilla.org/en/docs/Web/CSS/length
+    * http://www.w3.org/Style/Examples/007/units.en.html
+    * http://www.w3schools.com/cssref/css_units.asp
   * User style sheet
     * [Stylish](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
     * http://userstyles.org/
