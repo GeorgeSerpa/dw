@@ -35,37 +35,98 @@ A nota final será computado através da média aritmética das avaliações, re
 * [MDN](https://developer.mozilla.org/)
 * [Safari Dev](https://developer.apple.com/library/safari/navigation/)
 * [IE Dev](http://msdn.microsoft.com/en-us/library/hh772374(v=vs.85).aspx)
+* [W3C](http://www.w3.org/standards/webdesign/)
+* [W3C Wiki](http://www.w3.org/community/webed/wiki/Main_Page)
 * [Tableless](http://tableless.com.br/)
 
 ## HTML
 
 * Conteúdo
-  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/html) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * Tutoriais
+    * [Web Platform](http://docs.webplatform.org/wiki/html)
+    * [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+    * http://www.codecademy.com/tracks/web
+    * https://www.codeschool.com/paths/html-css
+    * http://thecodeplayer.com/
   * HTML5
     * Formulário: http://html5doctor.com/html5-forms-input-types/
     * Testando suporte: http://html5test.com/
     * Exemplos: http://html5demos.com/
     * Recursos: http://platform.html5.org/
   * Validador: http://validator.w3.org/
-  * Layouts
-    * http://www.oswd.org/
 * Referências
   * [HTML Standard - WhatWG](http://www.whatwg.org/specs/web-apps/current-work/multipage/#auto-toc-1)
   * HTML [4.01](http://www.w3.org/TR/html401/) e 5([1](http://www.w3.org/TR/html5/) e [2](http://html5.org/))
-  * W3C - HTML: [1](http://www.w3.org/standards/webdesign/htmlcss) e [2](http://www.w3.org/standards/webdesign/htmlcss)
+  * W3C - HTML: [1](http://www.w3.org/standards/techs/html#w3c_all) e [2](http://www.w3.org/standards/webdesign/htmlcss)
+  * [HTML WG W3C](http://www.w3.org/html/wg/)
   * [Doctype](http://docs.webplatform.org/wiki/guides/doctypes_and_markup_styles)
   * Marcadores/Tags: [Web Platform](http://docs.webplatform.org/wiki/html/elements) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
   * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
 * Cheat Sheet
   * http://ult-tex.net/info/html/index.html
   * http://churchm.ag/html-cheat-sheets-in-your-face/
+  * http://dochub.io/#html/
+  * http://overapi.com/html/
+  * http://devdocs.io/html/
 
 ## CSS
 
 * Conteúdo
-  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/css) e [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+  * Tutoriais: 
+    * [Web Platform CSS Portal](http://docs.webplatform.org/wiki/css)
+    * [Web Palatorm CSS Guide](http://docs.webplatform.org/wiki/css/tutorials)
+    * [MDN CSS Portal](https://developer.mozilla.org/en-US/docs/Web/CSS)
+    * MDN CSS Guide [1](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started) e [2](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+    * [W3C Guide](http://www.w3.org/community/webed/wiki/CSS/Training)
+    * http://www.csszengarden.com/
+  * Sprite CSS
+    * http://www.spritecow.com/
+    * http://spritepad.wearekiss.com/
+    * http://www.spritebox.net/
+    * http://csssprites.com/
+  * Web Font:
+    * http://www.google.com/fonts
+    * https://typekit.com/fonts
+  * Cores:
+    * http://flatuicolors.com/
+    * http://www.flatuicolorpicker.com/
+    * http://colourco.de/
+    * http://colorschemedesigner.com/
+    * https://kuler.adobe.com/create/color-wheel/
+    * http://clrs.cc/
+    * http://www.color-hex.com/
+  * Layouts
+    * http://www.oswd.org/
+  * Preprocessadores
+    * http://sass-lang.com/
+    * http://www.lesscss.org/
+    * http://compass-style.org/
+    * http://learnboost.github.io/stylus/
+  * Ferramentas
+    * http://designmodo.github.io/Flat-UI/
+    * http://fontawesome.io/
+    * http://getbootstrap.com/
+    * http://foundation.zurb.com/
+    * http://purecss.io/
 * Referências
+  * W3C - CSS: [1](http://www.w3.org/standards/techs/css#w3c_all) e [2](http://www.w3.org/standards/webdesign/htmlcss)
+  * [CSS WG](http://www.w3.org/Style/CSS/)
+  * [Cascading Style Sheets Level 2 Revision 1 (CSS 2.1)](http://www.w3.org/TR/CSS2/cover.html)
+  * [MDN Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+  * [W3C wiki](http://www.w3.org/community/webed/wiki/CSS/Properties)
+  * [Stackoverflow](http://stackoverflow.com/questions/6187085/full-css-property-table)
+  * [W3Schools](http://www.w3schools.com/cssref/default.asp)
+  * Propriedades: [W3C](http://www.w3.org/TR/CSS2/propidx.html), [W3C](http://www.w3.org/TR/CSS/#indices) e [Web Platform](http://docs.webplatform.org/wiki/css/properties)
+  * Media Query: [W3C media](http://www.w3.org/TR/CSS2/media.html), [Web Platform](http://docs.webplatform.org/wiki/css/mediaqueries) e [W3C media query](http://www.w3.org/community/webed/wiki/CSS/Mediaqueries)
+  * Seletores: [CSS3](http://www.w3.org/TR/css3-selectors/), [CSS2.1](http://www.w3.org/TR/CSS2/selector.html), [W3C](http://www.w3.org/community/webed/wiki/CSS/Selectors) e [Web Platform](http://docs.webplatform.org/wiki/css/selectors)
+  * At-rule: [Web Platform](http://docs.webplatform.org/wiki/css/atrules)
+  * Função: [Web Platform](http://docs.webplatform.org/wiki/css/functions)
 * Cheat Sheet
+  * http://www.smashingmagazine.com/2009/07/13/css-3-cheat-sheet-pdf/
+  * http://www.1stwebdesigner.com/freebies/css-cheat-sheets-designers/
+  * http://dochub.io/#css/
+  * http://overapi.com/css/
+  * http://devdocs.io/css/
 
 ## JS
 
@@ -96,6 +157,8 @@ A nota final será computado através da média aritmética das avaliações, re
   * [Brackets](http://brackets.io/)
   * http://codepen.io/
   * http://jsfiddle.net/
+  * http://js.do/
+  * http://jsbin.com/
 * Virtualização
   * [Virtual Box](https://www.virtualbox.org/)
   * [Vagrant](http://www.vagrantup.com/)
