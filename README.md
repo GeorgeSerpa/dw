@@ -18,7 +18,7 @@ Toda a comunicação será realizada neste [grupo](https://groups.google.com/for
 
 ##Avaliações
 ###Provas Prática
-* Avaliação 01: HTML e CSS.
+* Avaliação 01 (02/06): HTML e CSS.
 * Avaliação 02: JS.
 * Avaliação 03: PHP e BD.
 
@@ -119,7 +119,7 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://www.spritebox.net/
     * http://csssprites.com/
   * Web Font:
-    * http://www.google.com/fonts
+    * http://www.google.com/fonts e https://developers.google.com/fonts/docs/getting_started
     * https://typekit.com/fonts
   * Cores:
     * http://flatuicolors.com/
@@ -142,6 +142,7 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://getbootstrap.com/
     * http://foundation.zurb.com/
     * http://purecss.io/
+    * http://flippinawesome.org/2014/02/17/8-bootstrap-alternatives/
 * Referências
   * W3C - CSS: [1](http://www.w3.org/standards/techs/css#w3c_all) e [2](http://www.w3.org/standards/webdesign/htmlcss)
   * [CSS WG](http://www.w3.org/Style/CSS/)
