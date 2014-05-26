@@ -131,6 +131,15 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://www.color-hex.com/
   * Layouts
     * http://www.oswd.org/
+    * http://html5up.net/
+    * http://templated.co/
+    * http://html5up.net/
+    * http://onepagelove.com/templates
+    * http://startbootstrap.com/one-page-templates
+    * http://www.freshdesignweb.com/one-page-website-templates.html
+    * http://www.templatemonster.com/properties/coding/html-5/
+    * http://www.os-templates.com/free-basic-html5-templates
+    * http://www.templateworld.com/free_templates.html
   * Preprocessadores
     * http://sass-lang.com/
     * http://www.lesscss.org/
