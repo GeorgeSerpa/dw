@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<div id="content"></div>
+	<script>
+		// 99 - 01
+		var content = "";
+		for(var flag = 99; flag >= 1; flag -= 2){
+			if(flag < 10)
+				content += "00";
+			if(flag >= 10 && flag < 100)
+				content += "0";
+			content += flag;
+			if(flag > 1)
+				content += ", ";
+			if(flag % 10 == 1)
+				content += "<br>";
+		}
+		// document.write(content);
+		document.querySelector('#content').innerHTML = content;
+	</script>
+</body>
+</html>
