@@ -21,22 +21,7 @@
 		function calculate(operator){
 			var operand1 = parseFloat(document.querySelector('#operand1').value);
 			var operand2 = parseFloat(document.querySelector('#operand2').value);
-			result = 0;
-			switch(operator){
-				case '+':
-					result = operand1 + operand2;
-					break;
-				case '-':
-					result = operand1 - operand2;
-					break;
-				case '*':
-					result = operand1 * operand2;
-					break;
-				case '/':
-					result = operand1 / operand2;
-					break;
-			}
-			document.querySelector('#result').value = result;
+			document.querySelector('#result').value = eval(operand1+operator+operand2);
 		}
 	</script>
 </body>
