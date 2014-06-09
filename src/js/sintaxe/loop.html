@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<script>
+		// 01 - 100
+		
+		for(var flag = 1; flag <= 100; flag++){
+			if(flag < 10)
+				document.write("00");
+			if(flag >= 10 && flag < 100)
+				document.write("0");
+			document.write(flag);
+			if(flag < 100)
+				document.write(", ");
+			if(flag % 10 == 0)
+				document.write("<br>");
+		}
+	</script>
+</body>
+</html>
