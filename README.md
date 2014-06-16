@@ -174,10 +174,75 @@ A nota final será computado através da média aritmética das avaliações, re
 
 ## JS
 
+###ECMA-262
+
 * Conteúdo
-  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/html) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * Tutoriais: 
+    * [Web Platform](http://docs.webplatform.org/wiki/javascript)
+    * [MDN JS Portal](https://developer.mozilla.org/en/docs/Web/JavaScript)
+    * [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+    * http://www.codecademy.com/tracks/javascript-combined
+    * https://www.codeschool.com/paths/javascript
+    * https://www.learnstreet.com/lessons/javascript/
+    * http://thecodeplayer.com/
+    * http://jstherightway.org/
+  * Objetos
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_Revisited
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+    * http://www.json.org/
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+* Livros
+  * http://jsbooks.revolunet.com/
+* Preprocessadores
+  * http://coffeescript.org/
+  * http://livescript.net/
+  * http://www.typescriptlang.org/
+* Web API
+  * http://api.vagalume.com.br/
+  * http://www.lastfm.com.br/api
+  * http://community.openspending.org/help/api/
+  * http://www.republicavirtual.com.br/cep/exemplos.php
+  * http://ipinfo.io/ (Geolocation)
+  * http://www.programmableweb.com/
 * Referências
+  * ECMA-262: [ECMA](http://www.ecma-international.org/ecma-262/5.1/), [Web Platform](http://docs.webplatform.org/wiki/javascript#Index_of_all_JavaScript_topics) e [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
 * Cheat Sheet
+  * http://overapi.com/javascript/
+  * http://devdocs.io/javascript/
+  * http://dochub.io/#javascript/
+  * http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/
+
+###W3C
+
+* DOM
+  * http://docs.webplatform.org/wiki/dom
+  * https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference
+  * Evento
+    * https://developer.mozilla.org/en-US/docs/Web/Reference/Events
+    * https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers
+    * https://developer.mozilla.org/en-US/docs/Web/API/Event
+    * https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+    * https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.addEventListener
+    * http://www.w3schools.com/jsref/dom_obj_event.asp
+* Web API
+  * http://docs.webplatform.org/wiki/apis
+  * https://developer.mozilla.org/en-US/docs/Web/API
+  * https://developer.mozilla.org/en-US/docs/Web
+
+###Frameworks
+
+* http://www.jsdb.io/
+
+####jQuery
+
+* http://jquery.com/
+* http://jquerymobile.com/
+* http://jqueryui.com/
+* http://oscarotero.com/jquery/
+* http://www.unheap.com/
+* http://bestofjquery.com/
 
 ## PHP
 
