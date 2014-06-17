@@ -255,13 +255,9 @@ A nota final será computado através da média aritmética das avaliações, re
 
 ####jQuery
 
-* http://jquery.com/
-* http://jquerymobile.com/
-* http://jqueryui.com/
-* http://oscarotero.com/jquery/
-* http://www.unheap.com/
-* http://bestofjquery.com/
-
+* CORE
+  * http://jquery.com/
+  * http://oscarotero.com/jquery/
 * Plugins
   * http://plugins.jquery.com/
   * Repository
@@ -273,6 +269,7 @@ A nota final será computado através da média aritmética das avaliações, re
   * http://wijmo.com/
   * http://tablesorter.com/docs/
   * http://jqueryui.com/
+  * http://jquerymobile.com/
 
 ## PHP
 
