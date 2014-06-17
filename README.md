@@ -131,11 +131,29 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://www.color-hex.com/
   * Layouts
     * http://www.oswd.org/
+    * https://wrapbootstrap.com/
+    * http://startbootstrap.com/
+    * http://envatomarketplaces.com/
+    * http://themeforest.net/category/all
     * http://html5up.net/
     * http://templated.co/
     * http://html5up.net/
-    * http://onepagelove.com/templates
-    * http://startbootstrap.com/one-page-templates
+    * http://www.templatemonster.com/
+    * One page
+      * http://onepagelove.com/templates
+      * http://startbootstrap.com/one-page-templates
+    * Dashboard admin template
+      * https://econsultancy.com/blog/62844-24-beautifully-designed-web-dashboards-that-data-geeks-will-love#i.1d5jge4j5adrwx
+      * http://www.keenthemes.com/preview/index.php?theme=metronic_admin&page=index.html
+      * http://getbootstrap.com/examples/dashboard/
+      * http://startbootstrap.com/sb-admin
+      * http://startbootstrap.com/sb-admin-v2
+      * https://wrapbootstrap.com/theme/optimus-dashboard-admin-template-WB0016FX5
+      * https://wrapbootstrap.com/tag/dashboard
+      * http://themeforest.net/item/flatpoint-responsive-admin-dashboard-template/full_screen_preview/5220593
+      * http://themeforest.net/item/atom-admin-template/6867325?WT.ac=search_item&WT.z_author=codesign99
+      * http://themeforest.net/item/metro-lab-responsive-metro-dashboard-template/5359122?WT.ac=search_item&WT.z_author=vectorlab
+      * http://themeforest.net/tags/admin%20dashboard%20template
     * http://www.freshdesignweb.com/one-page-website-templates.html
     * http://www.templatemonster.com/properties/coding/html-5/
     * http://www.os-templates.com/free-basic-html5-templates
@@ -243,6 +261,18 @@ A nota final será computado através da média aritmética das avaliações, re
 * http://oscarotero.com/jquery/
 * http://www.unheap.com/
 * http://bestofjquery.com/
+
+* Plugins
+  * http://plugins.jquery.com/
+  * Repository
+    * http://www.unheap.com/
+    * http://www.jque.re/
+    * http://bestofjquery.com/
+    * http://jquery-plugins.net/
+  * http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/
+  * http://wijmo.com/
+  * http://tablesorter.com/docs/
+  * http://jqueryui.com/
 
 ## PHP
 
