@@ -131,6 +131,33 @@ A nota final será computado através da média aritmética das avaliações, re
     * http://www.color-hex.com/
   * Layouts
     * http://www.oswd.org/
+    * https://wrapbootstrap.com/
+    * http://startbootstrap.com/
+    * http://envatomarketplaces.com/
+    * http://themeforest.net/category/all
+    * http://html5up.net/
+    * http://templated.co/
+    * http://html5up.net/
+    * http://www.templatemonster.com/
+    * One page
+      * http://onepagelove.com/templates
+      * http://startbootstrap.com/one-page-templates
+    * Dashboard admin template
+      * https://econsultancy.com/blog/62844-24-beautifully-designed-web-dashboards-that-data-geeks-will-love#i.1d5jge4j5adrwx
+      * http://www.keenthemes.com/preview/index.php?theme=metronic_admin&page=index.html
+      * http://getbootstrap.com/examples/dashboard/
+      * http://startbootstrap.com/sb-admin
+      * http://startbootstrap.com/sb-admin-v2
+      * https://wrapbootstrap.com/theme/optimus-dashboard-admin-template-WB0016FX5
+      * https://wrapbootstrap.com/tag/dashboard
+      * http://themeforest.net/item/flatpoint-responsive-admin-dashboard-template/full_screen_preview/5220593
+      * http://themeforest.net/item/atom-admin-template/6867325?WT.ac=search_item&WT.z_author=codesign99
+      * http://themeforest.net/item/metro-lab-responsive-metro-dashboard-template/5359122?WT.ac=search_item&WT.z_author=vectorlab
+      * http://themeforest.net/tags/admin%20dashboard%20template
+    * http://www.freshdesignweb.com/one-page-website-templates.html
+    * http://www.templatemonster.com/properties/coding/html-5/
+    * http://www.os-templates.com/free-basic-html5-templates
+    * http://www.templateworld.com/free_templates.html
   * Preprocessadores
     * http://sass-lang.com/
     * http://www.lesscss.org/
@@ -165,10 +192,84 @@ A nota final será computado através da média aritmética das avaliações, re
 
 ## JS
 
+###ECMA-262
+
 * Conteúdo
-  * Tutoriais: [Web Platform](http://docs.webplatform.org/wiki/html) e [MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)
+  * Tutoriais: 
+    * [Web Platform](http://docs.webplatform.org/wiki/javascript)
+    * [MDN JS Portal](https://developer.mozilla.org/en/docs/Web/JavaScript)
+    * [MDN JS Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+    * http://www.codecademy.com/tracks/javascript-combined
+    * https://www.codeschool.com/paths/javascript
+    * https://www.learnstreet.com/lessons/javascript/
+    * http://thecodeplayer.com/
+    * http://jstherightway.org/
+  * Objetos
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Inheritance_Revisited
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON
+    * http://www.json.org/
+    * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object
+* Livros
+  * http://jsbooks.revolunet.com/
+* Preprocessadores
+  * http://coffeescript.org/
+  * http://livescript.net/
+  * http://www.typescriptlang.org/
+* Web API
+  * http://api.vagalume.com.br/
+  * http://www.lastfm.com.br/api
+  * http://community.openspending.org/help/api/
+  * http://www.republicavirtual.com.br/cep/exemplos.php
+  * http://ipinfo.io/ (Geolocation)
+  * http://www.programmableweb.com/
 * Referências
+  * ECMA-262: [ECMA](http://www.ecma-international.org/ecma-262/5.1/), [Web Platform](http://docs.webplatform.org/wiki/javascript#Index_of_all_JavaScript_topics) e [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+  * [Browser Engine](http://en.wikipedia.org/wiki/Web_browser_engine)
 * Cheat Sheet
+  * http://overapi.com/javascript/
+  * http://devdocs.io/javascript/
+  * http://dochub.io/#javascript/
+  * http://www.addedbytes.com/cheat-sheets/javascript-cheat-sheet/
+
+###W3C
+
+* DOM
+  * http://docs.webplatform.org/wiki/dom
+  * https://developer.mozilla.org/en-US/docs/DOM/DOM_Reference
+  * Evento
+    * https://developer.mozilla.org/en-US/docs/Web/Reference/Events
+    * https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers
+    * https://developer.mozilla.org/en-US/docs/Web/API/Event
+    * https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+    * https://developer.mozilla.org/en-US/docs/Web/API/EventTarget.addEventListener
+    * http://www.w3schools.com/jsref/dom_obj_event.asp
+* Web API
+  * http://docs.webplatform.org/wiki/apis
+  * https://developer.mozilla.org/en-US/docs/Web/API
+  * https://developer.mozilla.org/en-US/docs/Web
+
+###Frameworks
+
+* http://www.jsdb.io/
+
+####jQuery
+
+* CORE
+  * http://jquery.com/
+  * http://oscarotero.com/jquery/
+* Plugins
+  * http://plugins.jquery.com/
+  * Repository
+    * http://www.unheap.com/
+    * http://www.jque.re/
+    * http://bestofjquery.com/
+    * http://jquery-plugins.net/
+  * http://tutorialzine.com/2013/04/50-amazing-jquery-plugins/
+  * http://wijmo.com/
+  * http://tablesorter.com/docs/
+  * http://jqueryui.com/
+  * http://jquerymobile.com/
 
 ## PHP
 

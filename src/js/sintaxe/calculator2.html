@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<style>
+		input {
+			display: block;
+		}
+	</style>
+</head>
+<body>
+	<input type="text" id="operand1">
+	<input type="text" id="operand2">
+	<button onclick="calculate('+')">+</button>
+	<button onclick="calculate('-')">-</button>
+	<button onclick="calculate('*')">*</button>
+	<button onclick="calculate('/')">/</button>
+	<input type="text" id="result">
+	<script>
+		function calculate(operator){
+			var operand1 = parseFloat(document.querySelector('#operand1').value);
+			var operand2 = parseFloat(document.querySelector('#operand2').value);
+			document.querySelector('#result').value = eval(operand1+operator+operand2);
+		}
+	</script>
+</body>
+</html>

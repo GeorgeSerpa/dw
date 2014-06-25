@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<input type="text" id="number">
+	<button>Gerar</button>
+	<ul id="list"></ul>
+	<script>
+	document.querySelector("button").onclick = function(){
+		var number = document.querySelector('#number').value;
+		for(var flag = 0; flag <= number; flag++){
+			document.querySelector('#list').innerHTML += 
+						"<li>Item "+flag+"</li>";
+		}
+	}
+	</script>
+</body>
+</html>
